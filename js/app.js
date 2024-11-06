@@ -1,4 +1,3 @@
-// js/app.js
 import { addTask } from './task.js';
 import { renderTasks, clearInput } from './dom.js';
 

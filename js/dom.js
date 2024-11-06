@@ -1,4 +1,3 @@
-// js/dom.js
 import { taskList } from './task.js';
 
 export function renderTasks() {
